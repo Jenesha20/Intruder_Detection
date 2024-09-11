@@ -1,0 +1,6 @@
+CREATE TABLE intruders (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    intruder_id TEXT,
+    timestamp TEXT,
+    image BLOB
+);
